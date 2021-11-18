@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonasGLund99
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Software at AAU
+- 🌱 I’m currently studying Software at AAU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jgl21@student.aau.dk / jonasglund@outlook.com
 
