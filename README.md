@@ -1,9 +1,8 @@
 # Hi there, I'm Jonas Geertsen Lund 👋
 
-## I'm a Student at Aalborg University & Assistant Frontend Developer at CompanYoung! 📚
+## I'm a Student at Aalborg University & Associate Consultannt @ Delegate! 📚
 
-- 🌱 I’m currently studying Software on the 6th Semester at Aalborg University, Denmark
-- 🥅 2024 Goals: Finish my bachelor!
+- 🌱 I’m currently studying Software on the 7th Semester at Aalborg University, Denmark
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
