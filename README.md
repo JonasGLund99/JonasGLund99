@@ -1,6 +1,6 @@
 # Hi there, I'm Jonas Geertsen Lund 👋
 
-## I'm a Student at Aalborg University & Associate Consultannt @ Delegate! 📚
+## I'm a Student at Aalborg University & Associate Consultant @ Delegate! 📚
 
 - 🌱 I’m currently studying Software on the 7th Semester at Aalborg University, Denmark
 
