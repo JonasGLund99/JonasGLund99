@@ -1,8 +1,8 @@
 # Hi there, I'm Jonas Geertsen Lund 👋
 
-## I'm a Student at Aalborg University & Associate Consultant @ Delegate! 📚
+## I'm a Student at Aalborg University & Associate Consultant @ Context&! 📚
 
-- 🌱 I’m currently studying Software on the 8th Semester at Aalborg University, Denmark
+- 🌱 I’m currently studying Software on the 9th Semester at Aalborg University, Denmark
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
